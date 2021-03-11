@@ -35,7 +35,7 @@ A place to collect written works in the form of: Puisi , Sajak, Monolog, Novel
 * <https://www.duatigajuni.my.id/search/label/Antologi?&max-results=8>
 * <https://www.duatigajuni.my.id/search/label/Puisi?&max-results=8>
 
-TOS **[Duatigajuni](https://www.duatigajuni.my.id/)**.
+## TOS **[Duatigajuni](https://www.duatigajuni.my.id/)**.
 
 * <https://www.duatigajuni.my.id/p/terms-conditions.html>
 * <https://www.duatigajuni.my.id/p/disclaimer.html>
