@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Duatigajuni Preview](https://drive.google.com/file/d/1EG_fq-WRIG_tjpb6EQl1bje7ra53xz9i/view?usp=sharing](https://www.duatigajuni.my.id/)
+[![Duatigajuni Preview](https://assets.startbootstrap.com/img/screenshots/themes/stylish-portfolio.png)](https://www.duatigajuni.my.id/)
 
 **[View Live Preview](https://www.duatigajuni.my.id/)**
 
